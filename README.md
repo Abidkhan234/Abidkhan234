@@ -1,7 +1,14 @@
-# Hi, I'm Abid Shah Khan 👋
+## 👋 Hi there, I'm Abid Shah Khan
 
-🌟 **Frontend Developer** | 🖥️ **JavaScript Enthusiast**
+💻 **Frontend Web Developer** with hands-on experience in building **responsive** and **user-friendly** web applications using:  
+- 🧩 **HTML**, **CSS**, **JavaScript**  
+- ⚛️ **React**, 🎨 **Tailwind CSS**, 🔥 **Firebase**
 
-- 🔭 Currently working on clone projects to improve my skills.
-- 🌱 Learning advanced CSS and JavaScript frameworks.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/abid-shah-khan/)
+🎯 I focus on:
+- ✨ Modern **UI/UX design principles**
+- 🚀 **Performance optimization**
+- 🌐 **Cross-browser compatibility**
+
+🔄 I’m committed to **continuous learning** and love collaborating on projects that push the boundaries of frontend development.
+
+📫 Let's connect on LinkedIn 
